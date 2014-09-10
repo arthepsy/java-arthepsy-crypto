@@ -1,4 +1,8 @@
 java-arthepsy-crypto
 ====================
 
-cryptography library
+Cryptography library for Java.  
+
+* PBKDF2 SHA-1 hashing  
+* PBKDF2 SHA-2 hashing (SHA224, SHA256, SHA384, SHA512)  
+
